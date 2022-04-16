@@ -1,2 +1,2 @@
 # C/C++ note
-我的c语言学习笔记
+my c/c++ note
